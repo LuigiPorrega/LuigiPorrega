@@ -30,7 +30,7 @@ I am currently learning advanced web development techniques and exploring full-s
 ## 🏗️ Professional Experience
 
 ### Project Manager
-**Premea (Prevention and Environment)** | April 2022 – April 2025
+**Premea (Prevention and Environment)** | April 2022 – Noviembre 2024
 - Led high-profile real estate projects.
 - Coordinated technical teams and efficiently managed resources.
 - Prepared technical reports and project status updates.
@@ -75,6 +75,7 @@ I am currently learning advanced web development techniques and exploring full-s
 
 - Email: luis.porrega@gmail.com
 - LinkedIn: [www.linkedin.com/in/luigiporrega](https://www.linkedin.com/in/luigiporrega)
+- Twitter: [@LPorrega](https://x.com/LPorrega)
 - Location: Plaza Nou Moles 3 piso 5 puerta 9 - 46018 Valencia
 
 ---
