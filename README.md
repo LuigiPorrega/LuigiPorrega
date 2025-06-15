@@ -29,6 +29,12 @@ I am currently learning advanced web development techniques and exploring full-s
 
 ## 🏗️ Professional Experience
 
+### Web Developer
+**Datadec (Internship-Prevention and Environment)** | March 2025 – May 2025
+- 400-hour internship during which I developed backend solutions using PL/SQL and SQL.
+- Created and maintained forms using Oracle Forms.
+- Participated in optimizing database processes and developing internal tools.
+
 ### Project Manager
 **Premea (Prevention and Environment)** | April 2022 – Noviembre 2024
 - Led high-profile real estate projects.
